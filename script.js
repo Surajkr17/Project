@@ -4,7 +4,7 @@ const brands = [
   { name: 'Omega', pdf: 'https://drive.google.com/file/d/1Mr5cyJILyd1Tr4BZMZdg6rwpkB-_oCGW/view?usp=drive_link', logo: 'omega.png' },
   { name: 'Parker', pdf: 'https://drive.google.com/uc?export=download&id=1jhqB5WiQWmsa9yEcxPUQ_LLkr8TqDNLK', logo: 'parker.png' },
   { name: 'ITC', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_ITC', logo: 'itc.png' },
-  { name: '3M', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_3M', logo: '3M.png' },
+  { name: '3M', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_3M', logo: 'logo_3m.png' },
   { name: 'Cross', pdf: 'https://drive.google.com/uc?export=download&id=1Mr5cyJILyd1Tr4BZMZdg6rwpkB-_oCGW', logo: 'cross.png' }
 ];
 
