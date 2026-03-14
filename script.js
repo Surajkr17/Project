@@ -1,7 +1,7 @@
 // Brand data: replace `pdf` values with direct-download links for each PDF.
 // Helpful conversions are in README.md (Google Drive, Dropbox).
 const brands = [
-  { name: 'Omega', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_OMEGA', logo: 'omega.png' },
+  { name: 'Omega', pdf: 'https://drive.google.com/file/d/1Mr5cyJILyd1Tr4BZMZdg6rwpkB-_oCGW/view?usp=drive_link', logo: 'omega.png' },
   { name: 'Parker', pdf: 'https://drive.google.com/uc?export=download&id=1jhqB5WiQWmsa9yEcxPUQ_LLkr8TqDNLK', logo: 'parker.png' },
   { name: 'ITC', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_ITC', logo: 'itc.png' },
   { name: '3M', pdf: 'REPLACE_WITH_DIRECT_LINK_FOR_3M', logo: '3m.png' },
