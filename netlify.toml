@@ -1,5 +1,0 @@
-[build]
-  publish = "."
-  command = ""
-
-# No build command required for plain static HTML/CSS/JS
